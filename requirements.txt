@@ -1,0 +1,13 @@
+youtube_transcript_api
+streamlit
+google-generativeai
+python-dotenv
+pathlib
+bs4
+
+
+
+
+
+# //conda activate myenv/
+# streamlit run app.py
